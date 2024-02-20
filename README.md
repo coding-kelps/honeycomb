@@ -1,7 +1,7 @@
-# Krill
+# Honeycomb
 
 ## Overview
-This project is an implementation attempt to a clean gRPC API server written in Go. Achieving a decent gRPC API server template.
+This project is an implementation attempt to a clean hexagonal architectured gRPC API server written in Go. Achieving a decent gRPC API server template.
 
 ### Side-quests
 This project will also try to:
